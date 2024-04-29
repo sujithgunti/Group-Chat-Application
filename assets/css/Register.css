@@ -1,0 +1,9 @@
+.bg-whats{
+    background-image: url("https://i.pinimg.com/originals/35/f3/e9/35f3e9c4b86568b4919949a9307da2a9.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg-success-light{
+    background-color: #06C24E;
+}
