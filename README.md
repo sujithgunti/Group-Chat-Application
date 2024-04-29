@@ -2,6 +2,7 @@
 
 •Implemented group chat application with efficient, user friendly login and registration using local
 storage and JWT Tokens. Allows multiple users to chat with timestamps.
+
 •Frontend implemented using HTML, JavaScript, JQuery and back end implemented using RESTful
 APIs in PHP and PostgreSQL.
 
