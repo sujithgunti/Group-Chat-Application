@@ -1,4 +1,4 @@
-# employee management system
+# group chat application
 
 •Implemented group chat application with efficient, user friendly login and registration using local
 storage and JWT Tokens. Allows multiple users to chat with timestamps.
